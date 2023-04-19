@@ -1,0 +1,2 @@
+# newCodeql
+test-newway
